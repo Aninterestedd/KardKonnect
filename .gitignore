@@ -1,4 +1,5 @@
 .env
+contacts.csv
 card-connect-env/
 .gradio/
 test-dataset/
