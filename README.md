@@ -1,4 +1,4 @@
-# AI Business Card Manager
+# KardKonnect 
 
 An AI-powered business card management application that extracts contact information from business cards using Google's Gemini API and provides a clean interface to organize, preview, and manage professional contacts.
 
