@@ -1,3 +1,4 @@
 .env
-card-connect-env/
-.gradio/
+card-connect-env
+.gradio
+test-dataset
