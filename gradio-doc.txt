@@ -1,0 +1,10 @@
+Interface - wraps a python function - inputs and outputs specified
+Blocks - with gr.Blocks() as demo: 
+	(full code inside this)
+
+btn.click(fn, inputs, outputs, api_name)
+
+use decorator @btn.click() for the fn 
+def x ():
+
+event listeners: change() - textbox, play() - videos, click() - btn

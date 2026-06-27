@@ -1,0 +1,3 @@
+- ocr pipeline + gemini api
+- contact tracker 
+- analytics + dashboards
